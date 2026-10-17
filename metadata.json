@@ -1,0 +1,8 @@
+{
+  "name": "Extreme Clean Power Washing",
+  "description": "Robert Thompson is a hardworking 16-year-old student in San Antonio, TX offering affordable neighborhood pressure washing for driveways, trash cans, fences, and siding to make extra money. Informal youth service, not an official business, not insured.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
